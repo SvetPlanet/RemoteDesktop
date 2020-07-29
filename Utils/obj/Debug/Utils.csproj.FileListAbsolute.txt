@@ -1,0 +1,35 @@
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\Utils\bin\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\Utils\bin\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\Utils\obj\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\Utils\obj\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\Utils\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\Utils\bin\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\Utils\bin\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\Utils\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\Utils\obj\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\Utils\obj\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\Utils\bin\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\Utils\bin\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\Utils\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\Utils\obj\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\Utils\obj\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\Utils\bin\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\Utils\bin\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\Utils\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\Utils\obj\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\Utils\obj\Debug\Utils.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\Utils\bin\Debug\Utils.dll
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\Utils\bin\Debug\Utils.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\Utils\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\Utils\obj\Debug\Utils.dll
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\Utils\obj\Debug\Utils.pdb

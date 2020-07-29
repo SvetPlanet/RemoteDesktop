@@ -1,0 +1,182 @@
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe.config
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Form1.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\RemoteClient\bin\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\RemoteClient\bin\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp\RemoteDesktop\RemoteClient\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 30052020_2346\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe.config
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 30052020_2346\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 30052020_2346\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 30052020_2346\RemoteDesktop\RemoteClient\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 30052020_2346\RemoteDesktop\RemoteClient\bin\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 30052020_2346\RemoteDesktop\RemoteClient\bin\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 30052020_2346\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 30052020_2346\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Form1.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 30052020_2346\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 30052020_2346\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 30052020_2346\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 30052020_2346\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 30052020_2346\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0003\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe.config
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0003\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0003\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0003\RemoteDesktop\RemoteClient\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0003\RemoteDesktop\RemoteClient\bin\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0003\RemoteDesktop\RemoteClient\bin\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0003\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0003\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Form1.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0003\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0003\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0003\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0003\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0003\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe.config
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\RemoteClient\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\RemoteClient\bin\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\RemoteClient\bin\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Form1.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 Почти работает (осталось показать вкладки и передать управление)\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Form1.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe.config
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\RemoteClient\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\RemoteClient\bin\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114\RemoteDesktop\RemoteClient\bin\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe.config
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Form1.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 01062020_0114 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe.config
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Form1.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktopTCp 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe.config
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\bin\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Form1.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 05062020_0857 РАБОТАЕТ\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe.config
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\bin\Debug\Utils.dll
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\bin\Debug\Utils.pdb
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.FormClient.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.exe
+B:\Магистерская Прога\TCP RDP\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe.config
+B:\Магистерская Документы\Программа\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe
+B:\Магистерская Документы\Программа\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Документы\Программа\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\bin\Debug\Utils.dll
+B:\Магистерская Документы\Программа\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\bin\Debug\Utils.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+B:\Магистерская Документы\Программа\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.FormClient.resources
+B:\Магистерская Документы\Программа\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+B:\Магистерская Документы\Программа\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+B:\Магистерская Документы\Программа\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+B:\Магистерская Документы\Программа\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.exe
+B:\Магистерская Документы\Программа\RemoteDesktop 09062020_1440\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 16062020_2205\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe.config
+B:\Магистерская Документы\Программа\RemoteDesktop 16062020_2205\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe
+B:\Магистерская Документы\Программа\RemoteDesktop 16062020_2205\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 16062020_2205\RemoteDesktop\RemoteClient\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Документы\Программа\RemoteDesktop 16062020_2205\RemoteDesktop\RemoteClient\bin\Debug\Utils.dll
+B:\Магистерская Документы\Программа\RemoteDesktop 16062020_2205\RemoteDesktop\RemoteClient\bin\Debug\Utils.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 16062020_2205\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+B:\Магистерская Документы\Программа\RemoteDesktop 16062020_2205\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.FormClient.resources
+B:\Магистерская Документы\Программа\RemoteDesktop 16062020_2205\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+B:\Магистерская Документы\Программа\RemoteDesktop 16062020_2205\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+B:\Магистерская Документы\Программа\RemoteDesktop 16062020_2205\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+B:\Магистерская Документы\Программа\RemoteDesktop 16062020_2205\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.exe
+B:\Магистерская Документы\Программа\RemoteDesktop 16062020_2205\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe.config
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\RemoteClient\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\RemoteClient\bin\Debug\Utils.dll
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\RemoteClient\bin\Debug\Utils.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.FormClient.resources
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.exe
+B:\Магистерская Документы\Программа\RemoteDesktop 18062020_2211\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_1743\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe.config
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_1743\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_1743\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_1743\RemoteDesktop\RemoteClient\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_1743\RemoteDesktop\RemoteClient\bin\Debug\Utils.dll
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_1743\RemoteDesktop\RemoteClient\bin\Debug\Utils.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_1743\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_1743\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.FormClient.resources
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_1743\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_1743\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_1743\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_1743\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.exe
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_1743\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_2101\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe.config
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_2101\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.exe
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_2101\RemoteDesktop\RemoteClient\bin\Debug\RemoteClient.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_2101\RemoteDesktop\RemoteClient\bin\Debug\AxRDPCOMAPILib.dll
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_2101\RemoteDesktop\RemoteClient\bin\Debug\Utils.dll
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_2101\RemoteDesktop\RemoteClient\bin\Debug\Utils.pdb
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_2101\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_2101\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.FormClient.resources
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_2101\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_2101\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_2101\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_2101\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.exe
+B:\Магистерская Документы\Программа\RemoteDesktop 25062020_2101\RemoteDesktop\RemoteClient\obj\Debug\RemoteClient.pdb
